@@ -1,0 +1,19 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "A backend FrontEnd Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Himjyoti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
